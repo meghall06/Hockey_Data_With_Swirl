@@ -1,4 +1,4 @@
-# swirl-hockey
+# Hockey Data With Swirl
 
 
 <a href="https://swirlstats.com/" target="_blank">The `swirl` package</a> is an incredibly neat learning tool that teaches you how to use R via interactive learning in the RStudio console. And an associated package called `swirlify` allows anyone to *create* lessons that can then be used by anyone using `swirl`.
